@@ -137,3 +137,5 @@ cloud-simple-ui/target/
 cloud-thrift-client/target/
 cloud-thrift-interface/target/
 cloud-thrift-server/target/
+*/*.iml
+*/.idea/*
