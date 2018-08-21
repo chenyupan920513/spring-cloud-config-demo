@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Spring cloud 7day simple
 
 **7simple**总共有7个例子，展示了spring cloud的基本用法。
@@ -13,7 +14,6 @@
 * 7）使用docker发布应用
 
 -------------------
-### 开发环境
 * IDE：myeclipse 10
 * JDK：jdk1.7
 * WINDOWS：mvn 3
@@ -27,5 +27,3 @@
 
 -------------------
 ----------------
-本人的另一个介绍使用spring-cloud的例子的项目
-https://github.com/zpng/spring-cloud-microservice-examples
